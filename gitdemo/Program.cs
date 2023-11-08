@@ -1,4 +1,5 @@
-﻿using System;
+﻿using gitdemo;
+using System;
 
 namespace GitDemo
 {
@@ -7,6 +8,10 @@ namespace GitDemo
         public static void Main(string[] args)
         {
             Console.WriteLine("Its a git demo");
+            Console.WriteLine("Iam gonna use another class");
+
+            ChildClass childClass = new ChildClass();
+            childClass.DoSomeShit();
         }
     }
 }
