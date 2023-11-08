@@ -10,7 +10,7 @@ namespace gitdemo
     {
         public void DoSomeShit()
         {
-            Console.WriteLine("Something something");
+            Console.WriteLine("Something something undi something");
         }
     }
 }
