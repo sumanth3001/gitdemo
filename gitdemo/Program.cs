@@ -6,7 +6,7 @@ namespace GitDemo
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Its a git demo new f 1 jhui trying conflict");
+            Console.WriteLine("Its a git demo new f 1 jhui trying conflict remoteeeeeeeee");
             
         }
     }
